@@ -1,16 +1,13 @@
-# destini
+# Destini
 
-A new Flutter project.
+In this application, we direct the story ourselves. And each time you read it, you can come to a different conclusion in the story.
 
-## Getting Started
+When we open the app it gives us a piece of the story. We choose one of the options given to us to continue the story. Each piece we choose takes us to its sequel. In this way, we make the conclusion of the story ourselves.
 
-This project is a starting point for a Flutter application.
+Each time we read the story, it can lead us to a different conclusion.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/100719856/227815115-d98068e5-2587-4aed-87b8-11586664a203.mp4
+
