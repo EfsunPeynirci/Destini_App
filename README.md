@@ -32,11 +32,11 @@ https://github.com/user-attachments/assets/866727b3-1783-4eae-be61-b5f46d7036cb
 
 ## 📸 Screenshots
 
-![227815115-d98068e5-2587-4aed-87b8-11586664a203-1](https://github.com/user-attachments/assets/9942256b-5a5b-4fb5-a50e-866a59715aa2)
+![227815115-d98068e5-2587-4aed-87b8-11586664a203-1](https://github.com/user-attachments/assets/d422c898-5db2-40a7-a32c-bb9bb89ce6fc)
 
-![227815115-d98068e5-2587-4aed-87b8-11586664a203-0](https://github.com/user-attachments/assets/f835606c-8bd0-404f-a37e-08faf512d642)
+![227815115-d98068e5-2587-4aed-87b8-11586664a203-0](https://github.com/user-attachments/assets/b2578265-e5d7-44c7-9a73-5b03d26b6bac)
 
-![227815115-d98068e5-2587-4aed-87b8-11586664a203-2](https://github.com/user-attachments/assets/be6bb793-cd74-4ea7-b322-b0d168c05e9d)
+![227815115-d98068e5-2587-4aed-87b8-11586664a203-2](https://github.com/user-attachments/assets/2634737f-119d-43fb-a283-29e36d6b230e)
 
 ---
 
@@ -49,5 +49,3 @@ https://github.com/user-attachments/assets/866727b3-1783-4eae-be61-b5f46d7036cb
 
 ## 🙏 Acknowledgements
 This project was inspired by Dr. Angela Yu's The Complete Flutter Development Bootcamp with Dart course on Udemy. Special thanks to Dr. Angela Yu for her amazing tutorials!
-
-
