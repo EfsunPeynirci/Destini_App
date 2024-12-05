@@ -47,5 +47,7 @@ https://github.com/user-attachments/assets/866727b3-1783-4eae-be61-b5f46d7036cb
 - story_brain.dart: Logic for navigating the story.
 - assets/images/: Contains the custom background image for the app.
 
+---
+
 ## 🙏 Acknowledgements
 This project was inspired by Dr. Angela Yu's The Complete Flutter Development Bootcamp with Dart course on Udemy. Special thanks to Dr. Angela Yu for her amazing tutorials!
